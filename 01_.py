@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/16qhZT8Vb0hvk7afGDaLqvcVfoF-rrB80
 """
 
-!pip install crewai --upgrade
+!pip install crewai --install
 
 # Warning control
 import warnings
